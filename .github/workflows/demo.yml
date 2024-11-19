@@ -9,4 +9,5 @@ jobs:
       - name: Print a few lines 
         run: | 
               echo 1st line! |
-              eho 2nd line!
+              echo 2nd line! |
+              echo 3rd line!
